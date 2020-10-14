@@ -10,3 +10,9 @@ h1 {
 .paragraph-holder {
   text-align: center;
 }
+
+.about-me {
+  font-style: italic;
+  font-weight: bold;
+  font-size: 14;
+}
